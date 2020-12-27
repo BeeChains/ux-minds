@@ -1,2 +1,2 @@
-# ux-minds
+# ux-minds | a Handshake TLD
 UX-MINDS
